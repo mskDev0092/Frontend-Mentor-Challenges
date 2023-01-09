@@ -50,7 +50,7 @@ I've challenged myself to a **Frontend Mentor Challenges** and what other way th
 
 ## 5. Huddle Landing Page
 
-![screenshot](https://github.com/mskDev0092/Huddle-landing-page/blob/main/Screenshot%202022-11-11%20at%2022-17-00%20Frontend%20Mentor%20Huddle%20landing%20page%20with%20single%20introductory%20div.png)
+![screenshot](https://github.com/mskDev0092/Huddle-landing-page/blob/main/ScrFrontend%20Mentor%20Huddle%20landing%20page%20with%20single%20introductory%20div.png)
 
 - Live Site URL: [https://mskdev0092.github.io/Huddle-landing-page/](https://mskdev0092.github.io/Huddle-landing-page/)
 - Repository URL: [https://github.com/mskDev0092/Huddle-landing-page](https://github.com/mskDev0092/Huddle-landing-page)
