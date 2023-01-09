@@ -14,7 +14,7 @@ I've challenged myself to a **Frontend Mentor Challenges** and what other way th
 | [Single Price Grid Component](#single-price-grid-component) |
 | [Intro-component-with-sign-up](#Intro-component-with-sign-up) |
 | [Huddle Landing Page](#huddle-landing-page) |
-| [Pricing-Componant-with-toggle] (#Pricing-Componant-with-toggle) |
+| [Pricing-Componant-with-toggle](#Pricing-Componant-with-toggle) |
 
 ## 1. Four Card Feature Section
 
