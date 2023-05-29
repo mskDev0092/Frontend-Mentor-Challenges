@@ -15,16 +15,6 @@ I've challenged myself to a **Frontend Mentor Challenges** and what other way th
 | [4. Intro-component-with-sign-up](https://github.com/mskDev0092/Frontend-Mentor-Challenges#4-single-price-grid-component) |
 | [5. Huddle Landing Page](https://github.com/mskDev0092/Frontend-Mentor-Challenges#5-huddle-landing-page) |
 | [6. Pricing-Componant-with-toggle](https://github.com/mskDev0092/Frontend-Mentor-Challenges#6-pricing-component-with-toggle) |
-| [Todo]()|
-| [.7 Crowdfunding product page         ]() |
-| [.8 Space tourism multi-page website  ]() |
-| [.9 Interactive comments section      ]() |
-| [.10 Multi-step form                  ]() |
-| [.11 Job listings with filtering      ]() |
-| [.12 IP Address Tracker               ]() |
-| [.13 Expenses chart component         ]() |
-
-
 
 ## 1. Four Card Feature Section
 
