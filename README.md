@@ -42,7 +42,7 @@ I've challenged myself to a **Frontend Mentor Challenges** and what other way th
 
 ## 4. Single Price Grid Component
 
-![screenshot](https://github.com/mskDev0092/Single-Price-Grid-Component/blob/main/Screenshot%202022-11-12%20at%2020-33-57%20Frontend%20Mentor%20Single%20Price%20Grid%20Component.png)
+![screenshot](https://github.com/mskDev0092/Single-Price-Grid-Component/blob/main/Screenshot%202023-07-31%20at%2001-18-19%20Frontend%20Mentor%20Single%20Price%20Grid%20Component.png)
 
 - Live Site URL: [https://mskdev0092.github.io/Single-Price-Grid-Component/](https://mskdev0092.github.io/Single-Price-Grid-Component/)
 - Repository URL: [https://github.com/mskDev0092/Single-Price-Grid-Component](https://github.com/mskDev0092/Single-Price-Grid-Component)
