@@ -18,7 +18,7 @@ I've challenged myself to a **Frontend Mentor Challenges** and what other way th
 
 ## 1. Four Card Feature Section
 
-![screenshot](https://github.com/mskDev0092/Four-card-feature-section-master/blob/main/Frontend%20Mentor%20Four%20card%20feature%20section.png)
+![screenshot](https://github.com/mskDev0092/Four-card-feature-section-master/blob/main/Screenshot%202023-08-04%20at%2022-33-01%20Frontend%20Mentor%20Four%20card%20feature%20section.png)
 
 - Live Site URL: [https://mskdev0092.github.io/Four-card-feature-section-master/](https://mskdev0092.github.io/Four-card-feature-section-master/)
 - Repository URL: [https://github.com/mskDev0092/Four-card-feature-section-master](https://github.com/mskDev0092/Four-card-feature-section-master)
